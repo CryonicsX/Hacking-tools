@@ -1,3 +1,8 @@
+# New Version Selling Telegram: @cryonicx
+
+ [proff](https://gemootest.s3.us-east-2.amazonaws.com/s/res/514885813225336832/88960090b8ad86a4ea3ae2a10bb18e07.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARLZICB6QQHKRCV7K%2F20240905%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240905T010030Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=6d374f3ff3d0a2291b3803b48a0cae808a7daf44c29da7313d9f7c9e3a64cfd8)
+
+
 # INSTAGRAM MASS DM BOT 2022
 **DEVELOPED BY CRYONICX**
 # SETUP:
